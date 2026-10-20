@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<widgetlist>
+    <widget id="tvlaunch">
+        <title>TV URL Launcher</title>
+        <version>1.0.0</version>
+        <description>Kiosk URL Launcher</description>
+        <width>1920</width>
+        <height>1080</height>
+        <downloadurl>https://shermancourtassociation.github.io/tv-launch/</downloadurl>
+    </widget>
+</widgetlist>
